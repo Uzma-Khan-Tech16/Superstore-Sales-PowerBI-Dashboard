@@ -13,3 +13,5 @@ An end-to-end Data Analytics project connecting a local MySQL database with Powe
 ## 📊 Dashboard Insights
 - **Top Regional Performer:** West Region dominates sales revenue.
 - **Profit Engines:** Copiers ($55.62K) and Phones ($44.52K) yield the highest corporate net profit.
+
+- <img width="1327" height="741" alt="SSED1" src="https://github.com/user-attachments/assets/36dc3e2b-7fb8-471f-9499-6d542e60c46c" />
